@@ -1,0 +1,10 @@
+.dash-back{
+    background-color: #b8f06e;
+    height: 100%;
+}
+.btn{
+    width: 200px;
+}
+.btn:hover{
+    color: white;
+}
